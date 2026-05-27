@@ -1,0 +1,41 @@
+[
+  {
+    "id": "mock_test_123",
+    "name": "Debug Decklist Tournament",
+    "game": "Magic: The Gathering",
+    "players": [
+      {
+        "name": "Noelle Miller",
+        "decklist": {
+          "archetype": "Mono-Blue Control",
+          "url": "https://topdeck.gg/mock-blue",
+          "raw_list": "4 Brainstorm\n4 Force of Will\n4 Ponder\n20 Island"
+        }
+      },
+      {
+        "name": "Frank Elert",
+        "decklist": {
+          "archetype": "Burn",
+          "url": "https://topdeck.gg/mock-burn",
+          "raw_list": "4 Lightning Bolt\n4 Goblin Guide\n4 Eidolon of the Great Revel\n18 Mountain"
+        }
+      }
+    ],
+    "rounds": [
+      {
+        "roundNumber": 1,
+        "tables": [
+          {
+            "table": 2,
+            "status": "completed",
+            "winner": "Noelle Miller",
+            "players": [
+              { "name": "Noelle Miller" },
+              { "name": "Frank Elert" }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

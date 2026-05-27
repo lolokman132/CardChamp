@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="recycler_view" type="id" />
+    <item name="text_game_type" type="id" />
+    <item name="text_date" type="id" />
+</resources>
